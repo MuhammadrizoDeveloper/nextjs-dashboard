@@ -10,6 +10,11 @@ import {
   CardSkeleton,
 } from "@/app/ui/skeletons";
 
+export const metadata = {
+  title: "Dashboard - Next.js App",
+  description: "Your analytics dashboard with insights and metrics."
+}
+
 export default async function Page() {
   return (
     <main>
