@@ -6,7 +6,7 @@ import { Suspense } from "react";
 import {
   RevenueChartSkeleton,
   LatestInvoicesSkeleton,
-  CardsSkeleton,
+  // CardsSkeleton,
   CardSkeleton,
 } from "@/app/ui/skeletons";
 
